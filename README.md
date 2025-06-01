@@ -1,3 +1,6 @@
+××××
+# I haven’t finished the project yet. I’ll complete it soon when I have a bit more free time.
+××××
 # Telegram Channel Finder
 
 This tool extracts channel/group links from Telegram user profiles and bios.
